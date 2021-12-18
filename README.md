@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DOlverson
+- 👋 Hi: My name is Dave Olverson
 - 👀 I have interests in DevOP, Kubernetes, Python, Ansible, Docker, and Terraform.
 - 🌱 I am currently working on prepearing myself for a DevOps role.
 - 💞️ I’m looking to collaborate on startups or get a role as a DevOps engineer in a growing company.
